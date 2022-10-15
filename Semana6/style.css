@@ -64,7 +64,7 @@ main{
     height: 100vh; 
     padding: 20px 0;
     
-    background: url("/Semana5/novoback1.png")no-repeat bottom center scroll;
+    background: url("/fotos/novoback1.png")no-repeat bottom center scroll;
     background-position: 50% 50%;
     background-size: cover;
 
