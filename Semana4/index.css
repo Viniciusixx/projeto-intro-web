@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    border-bottom: 1px solid black;
+    text-align: center;
+    background-color: mediumturquoise;
+
+}
+    
+
+
+footer{
+    text-align: center;
+    bottom: 0;
+    background-color: gray;
+    border-top:1px solid black;
+}
+
+section{
+    height: 175px;
+    width: 347px;
+    background-color: white;
+    padding: 20px;
+   
+    border: 1px solid blue;
+    
+    margin: 10px 40vw 10px 50vw;
+}
+
+.centrodiv{
+    text-align: center;
+}
+
+.botao{
+    text-align: center;
+    margin: 10px 0 0 0 ;
+}
+
+
+img{
+   
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
+div.centrodiv{
+    text-align: center;
+}
